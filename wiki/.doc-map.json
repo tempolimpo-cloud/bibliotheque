@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "project": {
+    "name": "bibliotheque",
+    "language": "fr",
+    "platform": "backend",
+    "tier": 2
+  },
+  "pages": {
+    "wiki/Home.md": {
+      "title": "Bibliotheque API",
+      "status": "active",
+      "linksTo": [
+        "wiki/installation.md",
+        "wiki/api-reference.md",
+        "wiki/architecture.md"
+      ],
+      "linkedFrom": [
+        "wiki/installation.md",
+        "wiki/api-reference.md",
+        "wiki/architecture.md"
+      ],
+      "confluence": {
+        "space": "Bibliotheque",
+        "parentId": null,
+        "pageId": null,
+        "title": "Bibliotheque API",
+        "status": "not requested"
+      }
+    },
+    "wiki/installation.md": {
+      "title": "Installation",
+      "status": "active",
+      "linksTo": [
+        "wiki/Home.md",
+        "wiki/api-reference.md"
+      ],
+      "linkedFrom": [
+        "wiki/Home.md"
+      ],
+      "confluence": {
+        "space": "Bibliotheque",
+        "parentId": null,
+        "pageId": null,
+        "title": "Installation",
+        "status": "not requested"
+      }
+    },
+    "wiki/api-reference.md": {
+      "title": "Référence API",
+      "status": "active",
+      "linksTo": [
+        "wiki/Home.md",
+        "wiki/architecture.md"
+      ],
+      "linkedFrom": [
+        "wiki/Home.md",
+        "wiki/installation.md"
+      ],
+      "confluence": {
+        "space": "Bibliotheque",
+        "parentId": null,
+        "pageId": null,
+        "title": "Référence API",
+        "status": "not requested"
+      }
+    },
+    "wiki/architecture.md": {
+      "title": "Architecture",
+      "status": "active",
+      "linksTo": [
+        "wiki/Home.md",
+        "wiki/api-reference.md",
+        "wiki/installation.md"
+      ],
+      "linkedFrom": [
+        "wiki/Home.md",
+        "wiki/api-reference.md"
+      ],
+      "confluence": {
+        "space": "Bibliotheque",
+        "parentId": null,
+        "pageId": null,
+        "title": "Architecture",
+        "status": "not requested"
+      }
+    }
+  }
+}
